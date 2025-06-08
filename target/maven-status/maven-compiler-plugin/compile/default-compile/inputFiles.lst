@@ -1,0 +1,8 @@
+/Users/alaeberrada/Downloads/kafka-spring-project/src/main/java/com/example/kafka/model/ExchangeRate.java
+/Users/alaeberrada/Downloads/kafka-spring-project/src/main/java/com/example/kafka/config/KafkaConfig.java
+/Users/alaeberrada/Downloads/kafka-spring-project/src/main/java/com/example/kafka/consumer/ExchangeRateConsumer.java
+/Users/alaeberrada/Downloads/kafka-spring-project/src/main/java/com/example/kafka/repository/ExchangeRateRepository.java
+/Users/alaeberrada/Downloads/kafka-spring-project/src/main/java/com/example/kafka/KafkaApplication.java
+/Users/alaeberrada/Downloads/kafka-spring-project/src/main/java/com/example/kafka/producer/ExchangeRateProducer.java
+/Users/alaeberrada/Downloads/kafka-spring-project/src/main/java/com/example/kafka/service/ExchangeRateService.java
+/Users/alaeberrada/Downloads/kafka-spring-project/src/main/java/com/example/kafka/CommandLineAppStartupRunner.java

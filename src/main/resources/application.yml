@@ -1,0 +1,20 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: kafka-elk-proxy
+
+  kafka:
+    bootstrap-servers: localhost:9092
+
+  elasticsearch:
+    uris: http://localhost:9200
+    socket-timeout: 10s
+    connection-timeout: 10s
+    username:
+    password:
+
+exchange:
+  api:
+    url: https://api.exchangerate-api.com/v4/latest/USD

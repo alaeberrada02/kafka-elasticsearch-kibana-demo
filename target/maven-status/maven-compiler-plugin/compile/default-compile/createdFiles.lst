@@ -1,0 +1,8 @@
+com/example/kafka/CommandLineAppStartupRunner.class
+com/example/kafka/service/ExchangeRateService.class
+com/example/kafka/consumer/ExchangeRateConsumer.class
+com/example/kafka/producer/ExchangeRateProducer.class
+com/example/kafka/KafkaApplication.class
+com/example/kafka/config/KafkaConfig.class
+com/example/kafka/model/ExchangeRate.class
+com/example/kafka/repository/ExchangeRateRepository.class
